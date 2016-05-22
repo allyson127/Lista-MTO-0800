@@ -1,0 +1,127 @@
+<?xml version=“1.0” encoding=“utf-8”?> standalone="yes"?>
+ 
+<item>
+<title>[COLOR=white] Cartoon Network BR [/COLOR]</title
+<thumbnail>http://i67.tinypic.com/2ivmqmd.png</thumbnail>
+<fanart></fanart>
+<link>http://31.204.150.39:8081/live/cartoonk/playlist.m3u8</link>
+</item>
+
+<item>
+<title>[COLOR=white] Cartoon Network Master [/COLOR]</title
+<thumbnail>http://i67.tinypic.com/2ivmqmd.png</thumbnail>
+<fanart></fanart>
+<link>rtmp://31.204.151.253/live?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDE2IDY6MTk6MzkgUE0maGFzaF92YWx1ZT1qZ2hPRjNROWlReXE3Wm1xK2VSYW5RPT0mdmFsaWRtaW51dGVzPTIwMA playpath=brlive_0028 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/mestre.php token=jovempan</link>
+</item>
+
+<item>
+<title>[COLOR=white] Tooncast Master [/COLOR]</title
+<thumbnail>http://i63.tinypic.com/rqzqmv.png</thumbnail>
+<fanart></fanart>
+<link>http://</link>
+</item>
+
+<item>
+<title>[COLOR=white] Gloob Master [/COLOR]</title
+<thumbnail>http://i63.tinypic.com/2mz07r4.png</thumbnail>
+<fanart></fanart>
+<link>rtmp://31.204.151.253/live?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDE2IDY6MTk6MzkgUE0maGFzaF92YWx1ZT1qZ2hPRjNROWlReXE3Wm1xK2VSYW5RPT0mdmFsaWRtaW51dGVzPTIwMA== playpath=110hd swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/mestre.php token=jovempan</link>
+</item>
+
+<item>
+<title>[COLOR=white] Boomerang BR [/COLOR]</title
+<thumbnail>http://i68.tinypic.com/1zvx2zp.png</thumbnail>
+<fanart></fanart>
+<link>http://173.236.10.10:1935/webtvsa/webtvsa/live.m3u8</link>
+</item>
+
+<item>
+<title>[COLOR=white] Disney Channel Master [/COLOR]</title
+<thumbnail>http://i68.tinypic.com/28kng3c.png</thumbnail>
+<fanart></fanart>
+<link>http://</link>
+</item>
+
+<item>
+<title>[COLOR=white] Disney XD Master [/COLOR]</title
+<thumbnail>http://i68.tinypic.com/9gzz2d.png</thumbnail>
+<fanart></fanart>
+<link>http://</link>
+</item>
+
+<item>
+<title>[COLOR=white] Disney JR Master [/COLOR]</title
+<thumbnail>http://i67.tinypic.com/dgqa3c.png</thumbnail>
+<fanart></fanart>
+<link>http://</link>
+</item>
+
+<item>
+<title>[COLOR=white] Disney JR EsportesTv [/COLOR]</title
+<thumbnail>http://i67.tinypic.com/dgqa3c.png</thumbnail>
+<fanart></fanart>
+<link>http://</link>
+</item>
+
+<item>
+<title>[COLOR=white] Discovery Kids Master [/COLOR]</title
+<thumbnail>http://i67.tinypic.com/2h30l94.png</thumbnail>
+<fanart></fanart>
+<link>http://</link>
+</item>
+
+<item>
+<title>[COLOR=white] Nick Master [/COLOR]</title
+<thumbnail>http://i67.tinypic.com/2dj7vuu.png</thumbnail>
+<fanart></fanart>
+<link>http://</link>
+</item>
+
+<item>
+<title>[COLOR=white] Nick HD Master [/COLOR]</title
+<thumbnail>http://i64.tinypic.com/2n993yg.png</thumbnail>
+<fanart></fanart>
+<link>http://</link>
+</item>
+
+<item>
+<title>[COLOR=white] Nick JR Master [/COLOR]</title
+<thumbnail>http://i65.tinypic.com/2cruhzm.png</thumbnail>
+<fanart></fanart>
+<link>http://</link>
+</item>
+
+<item>
+<title>[COLOR=white] Nicktoons [/COLOR]</title
+<thumbnail>http://i66.tinypic.com/20pca5u.png</thumbnail>
+<fanart></fanart>
+<link>http://</link>
+</item>
+
+<item>
+<title>[COLOR=white] TV Rá-Tim-Bum Master [/COLOR]</title
+<thumbnail>http://i66.tinypic.com/282icew.png</thumbnail>
+<fanart></fanart>
+<link>http://</link>
+</item>
+
+<item>
+<title>[COLOR=white] Jim-Jam [/COLOR]</title
+<thumbnail>http://i67.tinypic.com/i3v4mv.png</thumbnail>
+<fanart></fanart>
+<link>http://</link>
+</item>
+
+<item>
+<title>[COLOR=white] Canal Panda [/COLOR]</title
+<thumbnail>http://i63.tinypic.com/33wbj0x.png</thumbnail>
+<fanart></fanart>
+<link>http://</link>
+</item>
+
+<item>
+<title>[COLOR=white] Sick [/COLOR]</title
+<thumbnail>http://i63.tinypic.com/2qlwpjt.png</thumbnail>
+<fanart></fanart>
+<link>http://</link>
+</item>
